@@ -22,5 +22,6 @@ Temorary (raw) code sources
 	
 	vtype - type of vectorizer, which with help vector of phrases builds; can take values : c - CountVectorizer , tfidf - TfidfVectorizer
 	
-	aiml_folder - folder name for aiml scripts that will be built by this script					  
+	aiml_folder - folder name for aiml scripts that will be built by this script
+	
 ------------------------------------------------------------------------------------------------------------
